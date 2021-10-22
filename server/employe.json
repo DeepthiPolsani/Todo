@@ -1,0 +1,210 @@
+{
+  "Login": [
+    {
+      "empname": "B",
+      "gender": "female",
+      "age": 22,
+      "salary": 33456,
+      "city": "Hyderabad",
+      "id": 2
+    },
+    {
+      "empname": "B",
+      "gender": "female",
+      "age": 22,
+      "salary": 33456,
+      "city": "Hyderabad",
+      "id": 6
+    },
+    {
+      "empname": "dee",
+      "designation": "qwerqwe",
+      "salary": "dee",
+      "city": "Hyderabad",
+      "id": 7
+    },
+    {
+      "empname": "4567",
+      "designation": "rt678",
+      "salary": "4r5t6y7u",
+      "city": "4df5g6h7",
+      "id": 8
+    },
+    {
+      "firstname": "",
+      "Lastname": "",
+      "username": "",
+      "email": "polsani.deepthi123@gmail.com",
+      "password": "123456789",
+      "id": 9
+    },
+    {
+      "firstname": "",
+      "Lastname": "",
+      "username": "",
+      "email": "",
+      "password": "",
+      "id": 10
+    },
+    {
+      "firstname": "",
+      "Lastname": "",
+      "username": "",
+      "email": "",
+      "password": "",
+      "id": 11
+    },
+    {
+      "firstname": "",
+      "Lastname": "",
+      "username": "",
+      "email": "",
+      "password": "",
+      "id": 12
+    },
+    {
+      "firstname": "POLSANI",
+      "lastname1": "DEEPTHI",
+      "username": "16S41A0580",
+      "email": "polsani.deepthi123@gmail.com",
+      "password": "123456789",
+      "conpassword": "123456789",
+      "id": 13
+    },
+    {
+      "firstname": "",
+      "lastname1": "",
+      "username": "",
+      "email": "",
+      "password": "",
+      "conpassword": "",
+      "id": 14
+    },
+    {
+      "firstname": "POLSANI",
+      "lastname1": "DEEPTHI",
+      "username": "16S41A0580",
+      "email": "polsani.deepthi123@gmail.com",
+      "password": "123456789",
+      "conpassword": "123456789",
+      "id": 15
+    },
+    {
+      "firstname": "",
+      "lastname1": "",
+      "username": "",
+      "email": "",
+      "password": "",
+      "conpassword": "",
+      "id": 16
+    },
+    {
+      "firstname": "POLSANI",
+      "lastname1": "DEEPTHI",
+      "username": "16S41A0580",
+      "email": "polsani.deepthi123@gmail.com",
+      "password": "123456789",
+      "conpassword": "123456789",
+      "id": 17
+    },
+    {
+      "firstname": "",
+      "lastname1": "",
+      "username": "",
+      "email": "",
+      "password": "",
+      "conpassword": "",
+      "id": 18
+    },
+    {
+      "firstname": "POLSANI",
+      "lastname1": "DEEPTHI",
+      "username": "16S41A0580",
+      "email": "polsani.deepthi123@gmail.com",
+      "password": "123456789",
+      "conpassword": "123456789",
+      "id": 19
+    },
+    {
+      "firstname": "",
+      "lastname1": "",
+      "username": "",
+      "email": "",
+      "password": "",
+      "conpassword": "",
+      "id": 20
+    },
+    {
+      "firstname": "POLSANI",
+      "lastname1": "DEEPTHI",
+      "username": "16S41A0580",
+      "email": "polsani.deepthi123@gmail.com",
+      "password": "1234567890",
+      "conpassword": "1234567890",
+      "id": 21
+    },
+    {
+      "firstname": "",
+      "lastname1": "",
+      "username": "",
+      "email": "",
+      "password": "",
+      "conpassword": "",
+      "id": 22
+    },
+    {
+      "firstname": "hiwerty",
+      "lastname1": "wedrftg",
+      "username": "wsedrftg",
+      "email": "deepthi.polsani@neosoftmail.com",
+      "password": "asdfghjkl",
+      "conpassword": "asdfghjkl",
+      "id": 23
+    },
+    {
+      "firstname": "POLSANI",
+      "lastname1": "DEEPTHI",
+      "username": "16S41A0580",
+      "email": "polsani.deepthi123@gmail.com",
+      "password": "123456789",
+      "conpassword": "123456789",
+      "id": 24
+    },
+    {
+      "firstname": "hiwerty",
+      "lastname1": "wedrftg",
+      "username": "wsedrftg",
+      "email": "deepthi.polsani@neosoftmail.com",
+      "password": "qwertyuio",
+      "conpassword": "qwertyuio",
+      "id": 25
+    },
+    {
+      "firstname": "hiwerty",
+      "lastname1": "wedrftg",
+      "username": "17WJ1A04N3",
+      "email": "deepthi.polsani@neosoftmail.com",
+      "password": "asdfghjkl",
+      "conpassword": "asdfghjkl",
+      "id": 26
+    },
+    {
+      "firstname": null,
+      "lastname": null,
+      "username": null,
+      "email": null,
+      "password": null,
+      "cnfpassword": null,
+      "id": 27
+    },
+    {
+      "firstid": "werty",
+      "lastid": "wertyu",
+      "userid": "werty",
+      "email": "werty@gmail.co",
+      "password": "234567890",
+      "cnfpassword": "234567890",
+      "id": 28
+    }
+  ]
+}
